@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="home">Home</string>
+    <string name="gift">Gift</string>
+    <string name="settings">Settings</string>
+    <string name="list">List</string>
+    <string name="username">Username</string>
+    <string name="username">Username</string>
+    <string name="log_in_register">Log In/Register</string>
+    <string name="password">Password</string>
+</resources>
