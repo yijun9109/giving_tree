@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">The Giving Tree</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="your_giving_tree_list">Your Giving Tree List</string>
+    <string name="jane_doe">Jane Doe</string>
+    <string name="lorem_ipsum1">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</string>
+    <string name="john_doe">John_doe</string>
+    <string name="jean_doe">Jean_doe</string>
+</resources>
